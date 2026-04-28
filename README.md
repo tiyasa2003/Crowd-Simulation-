@@ -137,8 +137,8 @@ python main.py floorplan.jpg
 This project was developed as part of a team-based final year project.
 
 My Contribution:
-Worked on visualization of crowd movement using heatmaps and path analysis
-Assisted in integrating different modules of the system
+Worked on visualization of crowd movement using heatmaps and path analysis,
+Assisted in integrating different modules of the system,
 Contributed to testing and analyzing simulation outputs
 ### Acknowledgement
 
