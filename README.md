@@ -1,7 +1,7 @@
 # 🚨 TRAGIC — Crowd Evacuation Intelligence System
 
 <p align="center">
-  <img src="assets/agent_paths-2.png" width="900"/>
+ <img src="agent_paths-2.png" width="900"/>
 </p>
 
 <p align="center">
