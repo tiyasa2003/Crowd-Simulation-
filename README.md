@@ -48,21 +48,21 @@ Unlike traditional simulators, TRAGIC not only models evacuation dynamics but al
 ### 🧭 Agent Movement Patterns
 
 <p align="center">
-  <img src="assets/agent_paths.png" width="800"/>
+  <img src="agent_paths.png" width="800"/>
 </p>
+
 
 ### 🌡️ Crowd Density Distribution
 
 <p align="center">
-  <img src="assets/density_heatmap.png" width="800"/>
+  <img src="density_heatmap.png" width="800"/>
 </p>
 
 ### 🧠 Floorplan Optimization Insights
 
 <p align="center">
-  <img src="assets/floorplan_improvement_overlay.png" width="800"/>
+  <img src="floorplan_improvement_overlay.png" width="800"/>
 </p>
-
 ---
 
 ## 📈 Example Results
