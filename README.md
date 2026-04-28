@@ -33,12 +33,12 @@ Unlike traditional simulators, TRAGIC not only models evacuation dynamics but al
 ## 📊 System Visualization
 
 <p align="center">
-  <img src="assets/density_heatmap.png" width="400"/>
-  <img src="assets/agent_paths.png" width="400"/>
+  <img src="density_heatmap.png" width="400"/>
+  <img src="agent_paths.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="assets/floorplan_improvement_overlay.png" width="900"/>
+  <img src="floorplan_improvement_overlay.png" width="900"/>
 </p>
 
 ---
